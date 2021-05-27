@@ -1,0 +1,6 @@
+$ cat> .gitignore
+/tmp/
+*.class
+*.log
+*.tmp
+notes-to-self.txt
